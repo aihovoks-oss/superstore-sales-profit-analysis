@@ -6,9 +6,8 @@ This project focuses on a comprehensive analysis of historical sales and profit 
 ## 🚀 Key Results & Insights
 
 ### 📊 1. Concentration Analysis (Pareto Principle)
-* **Products:** It was revealed that **395 out of 793 products** generate **80% of the total revenue**.
+* **Products:** It was revealed that **395 out of 1,850 products** generate **80% of the total revenue**.
 * **Customers:** **185 out of 793 customers** provide **80% of the total sales turnover**.
-* *Business Insight:* The company should focus its marketing efforts on retaining these top-tier customers and optimizing stock levels specifically for the core product group.
 
 ### 🔍 2. Deep-Dive Profitability Analysis: The "Tables" Case
 During data aggregation, a critical loss-making category was discovered — **Tables (total net loss exceeding -$17,725)**. A detailed investigation using descriptive statistics unfolded a systemic issue:
